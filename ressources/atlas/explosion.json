@@ -1,0 +1,46 @@
+{
+
+"images": [
+    "ressources/atlas/explosion.png"
+],
+
+"framerate": 12,
+"frames": [
+    [1, 1, 726, 725, 0, -125, -25],
+    [729, 1, 626, 627, 0, -175, -75],
+    [1357, 1, 577, 577, 0, -199, -100],
+    [1936, 1, 70, 77, 0, -458, -351],
+    [1357, 580, 527, 527, 0, -224, -125],
+    [1886, 580, 157, 240, 0, -410, -281],
+    [1886, 822, 138, 151, 0, -419, -311],
+    [1886, 975, 117, 119, 0, -424, -326],
+    [729, 630, 477, 477, 0, -249, -150],
+    [1, 728, 377, 377, 0, -299, -200],
+    [380, 728, 328, 328, 0, -323, -225],
+    [380, 1058, 278, 278, 0, -348, -250],
+    [1, 1107, 228, 240, 0, -373, -275]
+],
+
+"animations": {
+    "explosion00012": { "frames": [0] },
+    "explosion00011": { "frames": [1] },
+    "explosion00010": { "frames": [2] },
+    "explosion00000": { "frames": [3] },
+    "explosion00009": { "frames": [4] },
+    "explosion00003": { "frames": [5] },
+    "explosion00002": { "frames": [6] },
+    "explosion00001": { "frames": [7] },
+    "explosion00008": { "frames": [8] },
+    "explosion00007": { "frames": [9] },
+    "explosion00006": { "frames": [10] },
+    "explosion00005": { "frames": [11] },
+    "explosion00004": { "frames": [12] },
+    "Explosion": { "frames": [ 0, 1,2, 3, 4,5,6,7,8], "next": false }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:e772d80fc8bb0e8560d0a43c72b2cfb9:5d2284cba94bf210a2f3b4748f218b2d:900e1fb3093a9a6ecb2b2b49071c44f7$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

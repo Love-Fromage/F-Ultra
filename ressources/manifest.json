@@ -1,0 +1,37 @@
+{
+
+  "manifest": [
+
+
+    {"id": "fond",  "src": "ressources/images/fond.png"},
+    {"id": "boutonPlay",  "src": "ressources/images/Jouer.png"},
+    {"id": "instructions",  "src": "ressources/images/instructions.png"},
+    {"id": "mediaOn",  "src": "ressources/images/mediaOn.png"},
+    {"id": "mediaOff",  "src": "ressources/images/mediaOff.png"},
+    {"id": "options",  "src": "ressources/images/shopPopUp.png"},
+    {"id": "vaisseau1",  "src": "ressources/images/spacecraftMain.png"},
+    {"id": "tirPlayer",  "src": "ressources/images/tirJoueur.png"},
+    {"id": "barreVie",  "src": "ressources/images/barreVie.png"},
+    {"id": "barreActive",  "src": "ressources/images/barreActive.png"},
+    {"id": "bouton0",  "src": "ressources/images/REtour.png"},
+    {"id": "bouton1",  "src": "ressources/images/usualbutton.png"},
+    {"id": "ennemi",  "src": "ressources/images/spacecraft2.png"},
+    {"id": "boss",  "src": "ressources/images/spacecraft1.png"},
+
+    {"id": "damage",  "src": "ressources/sons/damage.ogg", "type": "sound"},
+    {"id": "niveau1",  "src": "ressources/sons/niveau1.ogg", "type": "sound"},
+    {"id": "niveau2",  "src": "ressources/sons/niveau2.ogg", "type": "sound"},
+    {"id": "niveau3",  "src": "ressources/sons/niveau3.ogg", "type": "sound"},
+    {"id": "theme",  "src": "ressources/sons/theme.ogg", "type": "sound"},
+    {"id": "shoot",  "src": "ressources/sons/shootPlayer.ogg", "type": "sound"},
+    {"id": "damage2",  "src": "ressources/sons/hitC.ogg", "type": "sound"},
+
+
+    {"id": "explosion1",  "src": "ressources/atlas/explosion.json", "type": "spritesheet"},
+
+    {"id": "police", "src": "ressources/polices/Bebas-Regular.ttf", "type": "font"}
+
+
+  ]
+
+}
